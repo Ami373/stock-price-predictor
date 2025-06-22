@@ -6,6 +6,6 @@ matplotlib
 requests
 textblob
 scikit-learn
-tensorflow
+tensorflow==2.12.0
 streamlit-autorefresh
 google-generativeai
